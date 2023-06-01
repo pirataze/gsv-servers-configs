@@ -1,1 +1,1 @@
-# gsv-servers-configs
+# Private GM Servers Configs
